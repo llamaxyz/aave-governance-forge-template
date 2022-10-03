@@ -10,7 +10,7 @@ import {AaveV2Ethereum} from "@aave-address-book/AaveV2Ethereum.sol";
 import {ProposalPayload} from "../ProposalPayload.sol";
 import {DeployMainnetProposal} from "../../script/DeployMainnetProposal.s.sol";
 
-contract ProposalPayloadTest is Test {
+contract ProposalPayloadE2ETest is Test {
     address public constant AAVE_WHALE = 0x25F2226B597E8F9514B3F68F00f494cF4f286491;
 
     uint256 public proposalId;
