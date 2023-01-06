@@ -10,3 +10,6 @@
 [submodule "lib/aave-helpers"]
 	path = lib/aave-helpers
 	url = https://github.com/bgd-labs/aave-helpers
+[submodule "lib/aave-v3-core"]
+	path = lib/aave-v3-core
+	url = https://github.com/aave/aave-v3-core
